@@ -72,8 +72,6 @@ import Schedule from './views/consultant/Schedule'
 import Appointments from './views/consultant/appointments.jsx'
 
 function App() {
-
-  console.log({ data: import.meta.env.NODE_APP_BASE_URL});
   
   return (
     <UserRoleProvider>

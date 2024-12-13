@@ -6,8 +6,7 @@ import { getAuthToken } from '../redux/feature/userSlice';
 import { NODE_APP_BASE_URL } from '.';
 
 const axiosInstance = axios.create({
-  // baseURL: `${NODE_APP_BASE_URL}/api`,
-  baseURL: import.meta.env.NODE_APP_BASE_URL
+  baseURL: `${NODE_APP_BASE_URL}/api`,
 });
 
 

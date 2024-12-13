@@ -84,7 +84,6 @@ export default function Login(){
 					</div>
 				</div>
 				<div className="w-full h-full flex-auto">
-					<p>url: { NODE_APP_BASE_URL } </p>
 					<form className=" w-1/2 m-auto rounded p-10 mt-3"  method="POST" onSubmit={formik.handleSubmit} >
 						<div>
 							<h4 className="text-black font-bold text-2xl py-10 text-center">Agri<span className="text-primary">BUSS</span></h4>

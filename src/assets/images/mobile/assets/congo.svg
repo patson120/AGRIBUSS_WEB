@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600">
+    <!-- Green triangle -->
+    <polygon points="0,0 450,300 0,600" fill="#009543"/>
+    
+    <!-- Yellow triangle -->
+    <polygon points="900,0 450,300 900,600" fill="#f1bb1b"/>
+  </svg>

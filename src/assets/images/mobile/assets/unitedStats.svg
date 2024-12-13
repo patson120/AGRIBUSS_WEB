@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 7410 3900">
+    <!-- Red Stripes -->
+    <rect width="7410" height="390" y="0" fill="#b22234"/>
+    <rect width="7410" height="390" y="780" fill="#b22234"/>
+    <rect width="7410" height="390" y="1560" fill="#b22234"/>
+    <rect width="7410" height="390" y="2340" fill="#b22234"/>
+    <rect width="7410" height="390" y="3120" fill="#b22234"/>
+  
+    <!-- White Stripes -->
+    <rect width="7410" height="390" y="390" fill="#fff"/>
+    <rect width="7410" height="390" y="1170" fill="#fff"/>
+    <rect width="7410" height="390" y="1950" fill="#fff"/>
+    <rect width="7410" height="390" y="2730" fill="#fff"/>
+    <rect width="7410" height="390" y="3510" fill="#fff"/>
+  
+    <!-- Blue Union -->
+    <rect width="2964" height="2100" fill="#3c3b6e"/>
+  
+    <!-- Stars -->
+    <g fill="#fff">
+      <!-- Row 1 -->
+      <polygon points="247,90 323,310 117,200 377,200 171,310"/>
+      <polygon transform="translate(247*2, 0)" points="247,90 323,310 117,200 377,200 171,310"/>
+      <polygon transform="translate(247*4, 0)" points="247,90 323,310 117,200 377,200 171,310"/>
+      <polygon transform="translate(247*6, 0)" points="247,90 323,310 117,200 377,200 171,310"/>
+      <polygon transform="translate(247*8, 0)" points="247,90 323,310 117,200 377,200 171,310"/>
+      <polygon transform="translate(247*10, 0)" points="247,90 323,310 117,200 377,200 171,310"/>
+    </g>
+    <g fill="#fff" transform="translate(0, 210)">
+      <!-- Row 2 -->
+      <polygon points="247,90 323,310 117,200 377,200 171,310"/>
+      <polygon transform="translate(247*2, 0)" points="247,90 323,310 117,200 377,200 171,310"/>
+      <polygon transform="translate(247*4, 0)" points="247,90 323,310 117,200 377,200 171,310"/>
+      <polygon transform="translate(247*6, 0)" points="247,90 323,310 117,200 377,200 171,310"/>
+      <polygon transform="translate(247*8, 0)" points="247,90 323,310 117,200 377,200 171,310"/>
+    </g>
+    <g fill="#fff" transform="translate(0, 420)">
+      <!-- Row 3 -->
+      <polygon points="247,90 323,310 117,200 377,200 171,310"/>
+      <polygon transform="translate(247*2, 0)" points="247,90 323,310 117,200 377,200 171,310"/>
+      <polygon transform="translate(247*4, 0)" points="247,90 323,310 117,200 377,200 171,310"/>
+      <polygon transform="translate(247*6, 0)" points="247,90 323,310 117,200 377,200 171,310"/>
+      <polygon transform="translate(247*8, 0)" points="247,90 323,310 117,200 377,200 171,310"/>
+      <polygon transform="translate(247*10, 0)" points="247,90 323,310 117,200 377,200 171,310"/>
+    </g>
+    <g fill="#fff" transform="translate(0, 630)">
+      <!-- Row 4 -->
+      <polygon points="247,90 323,310 117,200 377,200 171,310"/>
+      <polygon transform="translate(247*2, 0)" points="247,90 323,310 117,200 377,200 171,310"/>
+      <polygon transform="translate(247*4, 0)" points="247,90 323,310 117,200 377,200 171,310"/>
+      <polygon transform="translate(247*6, 0)" points="247,90 323,310 117,200 377,200 171,310"/>
+      <polygon transform="translate(247*8, 0)" points="247,90 323,310 117,200 377,200 171,310"/>
+    </g>
+    <g fill="#fff" transform="translate(0, 840)">
+      <!-- Row 5 -->
+      <polygon points="247,90 323,310 117,200 377,200 171,310"/>
+      <polygon transform="translate(247*2, 0)" points="247,90 323,310 117,200 377,200 171,310"/>
+      <polygon transform="translate(247*4, 0)" points="247,90 323,310 117,200 377,200 171,310"/>
+      <polygon transform="translate(247*6, 0)" points="247,90 323,310 117,200 377,200 171,310"/>
+      <polygon transform="translate(247*8, 0)" points="247,90 323,310 117,200 377,200 171,310"/>
+      <polygon transform="translate(247*10, 0)" points="247,90 323,310 117,200 377,200 171,310"/>
+    </g>
+    <g fill="#fff" transform="translate(0, 1050)">
+      <!-- Row 6 -->
+      <polygon points="247,90 323,310 117,200 377,200 171,310"/>
+      <polygon transform="translate(247*2, 0)" points="247,90 323,310 117,200 377,200 171,310"/>
+      <polygon transform="translate(247*4, 0)" points="247,90 323,310 117,200 377,200 171,310"/>
+      <polygon transform="translate(247*6, 0)" points="247,90 323,310 117,200 377,200 171,310"/>
+      <polygon transform="translate(247*8, 0)" points="247,90 323,310 117,200 377,200 171,310"/>
+    </g>
+    <g fill="#fff" transform="translate(0, 1260)">
+      <!-- Row 7 -->
+      <polygon points="247,90 323,310 117,200 377,200 171,310"/>
+      <polygon transform="translate(247*2, 0)" points="247,90 323,310 117,200 377,200 171,310"/>
+      <polygon transform="translate(247*4, 0)" points="247,90 323,310 117,200 377,200 171,310"/>
+      <polygon transform="translate(247*6, 0)" points="247,90 323,310 117,200 377,200 171,310"/>
+      <polygon transform="translate(247*8, 0)" points="247,90 323,310 117,200 377,200 171,310"/>
+      <polygon transform="translate(247*10, 0)" points="247,90 323,310 117,200 377,200 171,310"/>
+    </g>
+    <g fill="#fff" transform="translate(0, 1470)">
+      <!-- Row 8 -->
+      <polygon points="247,90 323,310 117,200 377,200 171,310"/>
+      <polygon transform="translate(247*2, 0)" points="247,90 323,310 117,200 377,200 171,310"/>
+      <polygon transform="translate(247*4, 0)" points="247,90 323,310 117,200 377,200 171,310"/>
+      <polygon transform="translate(247*6, 0)" points="247,90 323,310 117,200 377,200 171,310"/>
+      <polygon transform="translate(247*8, 0)" points="247,90 323,310 117,200 377,200 171,310"/>
+    </g>
+    <g fill="#fff" transform="translate(0, 1680)">
+      <!-- Row 9 -->
+      <polygon points="247,90 323,310 117,200 377,200 171,310"/>
+      <polygon transform="translate(247*2, 0)" points="247,90 323,310 117,200 377,200 171,310"/>
+      <polygon transform="translate(247*4, 0)" points="247,90 323,310 117,200 377,200 171,310"/>
+      <polygon transform="translate(247*6, 0)" points="247,90 323,310 117,200 377,200 171,310"/>
+      <polygon transform="translate(247*8, 0)" points="247,90 323,310 117,200 377,200 171,310"/>
+      <polygon transform="translate(247*10, 0)" points="247,90 323,310 117,200 377,200 171,310"/>
+    </g>
+  </svg>
+  

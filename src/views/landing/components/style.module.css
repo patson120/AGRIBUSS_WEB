@@ -1,0 +1,15 @@
+
+.hero_background {
+    background: url(../../../assets/images/hero_bg.jpg) 50% no-repeat !important;
+    background-size: cover !important;
+}
+
+.hero_background1 {
+    background: url(../../../assets/images/p3.jpg) 50% no-repeat !important;
+    background-size: cover !important;
+}
+
+.hero_background2 {
+    background: url(../../../assets/images/taxi3.png) 50% no-repeat !important;
+    background-size: cover !important;
+}

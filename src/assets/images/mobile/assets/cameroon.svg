@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+    <!-- Green stripe -->
+    <rect x="0" y="0" width="200" height="400" fill="#007A5E"/>
+    
+    <!-- Red stripe -->
+    <rect x="200" y="0" width="200" height="400" fill="#CE1126"/>
+    
+    <!-- Yellow stripe -->
+    <rect x="400" y="0" width="200" height="400" fill="#FFD700"/>
+    
+    <!-- Star -->
+    <g transform="translate(300, 200)">
+      <path fill="#FFD700" d="M17.5,0l5.3,16.3h17.2l-13.9,10.1 5.3,16.3L17.5,37.4l-13.9,10.1,5.3-16.3L3.2,26.4 0,10.1h17.2L22.5,0z"/>
+    </g>
+  </svg>
+  

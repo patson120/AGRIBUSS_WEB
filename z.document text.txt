@@ -1,0 +1,92 @@
+////ECOMMERCE CATEGORIES/////
+*****************************
+- Vegetables
+Leafy Greens
+Root Vegetables
+Cruciferous
+Nightshades
+Others
+
+- Fruits
+Berries
+Citrus Fruits
+Stone Fruits
+Tropical Fruits
+Others
+
+- Crops
+Grains (e.g., wheat, rice)
+Legumes (e.g., beans, lentils)
+Tubers (e.g., potatoes, yams)
+Others
+
+- Seeds
+Vegetable Seeds
+Flower Seeds
+Herb Seeds
+Grass Seeds
+Others
+
+- Tools and Equipment
+Hand Tools (e.g., shovels, hoes)
+Power Tools (e.g., tillers, trimmers)
+Irrigation Equipment
+Safety Gear
+Others
+
+- Fertilizers
+Organic Fertilizers
+Chemical Fertilizers
+Soil Amendments
+Specialty Fertilizers
+Others
+
+- Livestock
+Cattle
+Sheep
+Goats
+Pigs
+Poultry
+Eggs
+Chicken Eggs
+Duck Eggs
+Quail Eggs
+Others
+
+- Fish and Seafood
+Freshwater Fish
+Saltwater Fish
+Shellfish
+Others
+
+- Honey and Beekeeping Products
+Raw Honey
+Beeswax
+Propolis
+Royal Jelly
+
+- Insects
+Edible Insects (e.g., crickets, mealworms)
+Live Bait (e.g., worms, caterpillars)
+
+- Herbs and Spices
+Fresh Herbs
+Dried Herbs
+Spices
+
+- Dairy Products
+Milk
+Cheese
+Yogurt
+Butter
+
+- Baked Goods
+Bread
+Pastries
+Cakes
+Cookies
+
+- Other Products
+Crafts and Handmade Goods
+Organic Products
+Specialty Items

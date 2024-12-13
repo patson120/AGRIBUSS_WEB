@@ -9,9 +9,6 @@ const axiosInstance = axios.create({
   baseURL: `${NODE_APP_BASE_URL}/api`,
 });
 
-// user
-// email: 'agribussadmin@gmail.com',
-// password: 'Admin@123',
 
 axiosInstance.interceptors.request.use(
   (config) => {

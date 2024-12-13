@@ -68,7 +68,7 @@ export default function Login(){
 		validationSchema
 	})
 
-	console.log({ NODE_APP_BASE_URL: import.meta.env });
+	console.log({ NODE_APP_BASE_URL: process.env });
 	
 
 	return(

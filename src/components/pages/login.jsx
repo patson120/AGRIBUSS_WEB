@@ -67,8 +67,6 @@ export default function Login(){
 		onSubmit,
 		validationSchema
 	})
-
-	console.log({ NODE_APP_BASE_URL: process.env });
 	
 
 	return(
